@@ -1,0 +1,149 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  background-color: rgb(184, 187, 187);
+}
+.input {
+  text-align: center;
+  position: fixed;
+  top: 30%;
+  left: 40%;
+}
+.input input {
+  width: 250px;
+  height: 50px;
+  font-size: 1.2em;
+}
+.input button {
+  width: fit-content;
+  margin: 3px;
+  height: 50px;
+  font-size: 1.2em;
+}
+.input p {
+  color: red;
+}
+.student-inputs {
+  text-align: center;
+  position: fixed;
+  top: 30%;
+  left: 40%;
+}
+.student-inputs input {
+  margin: 3px;
+  height: 50px;
+  font-size: 1.2em;
+}
+.student-inputs button {
+  margin: 3px;
+  height: 50px;
+  font-size: 1.2em;
+}
+.success {
+  color: green;
+}
+.error {
+  color: red;
+}
+.landing {
+  text-align: center;
+}
+.admin-content {
+  padding-top: 20px;
+  display: flex;
+  margin: auto;
+}
+.manage-users {
+  padding: 5px;
+  border: 1px solid black;
+  width: 650px;
+  height: 550px;
+  overflow-y: scroll;
+  margin: auto;
+}
+.history {
+  padding: 5px;
+  border: 1px solid black;
+  width: 650px;
+  height: 550px;
+  margin: auto;
+  overflow-y: scroll;
+}
+.admin {
+  text-align: center;
+}
+.all-users {
+  display: flex;
+}
+table {
+  margin: auto;
+  text-align: left;
+  width: 100%;
+}
+.grant-btn{
+  width: 120px;
+  color: green;
+  border-color: green;
+}
+.revoke-btn{
+  width: 120px;
+  color: red;
+  border-color: red;
+}
+.filter-modal {
+  padding: 5px;
+  position: fixed;
+  top: 33%;
+  left: 40%;
+  border: 3px solid black;
+}
+.filter {
+  margin: 3px;
+}
+.filter-option {
+  display: flex;
+  justify-content: space-between;
+  margin: 3px;
+}
+.filter-button {
+  margin: 3px;
+}
+.add-user {
+  padding: 10px;
+  position: fixed;
+  width: fit-content;
+  top: 40%;
+  left: 40%;
+  border: 3px solid black;
+}
+.add-user button {
+  margin: 5px;
+}
+.add-user-field {
+  margin: 3px;
+  display: flex;
+  justify-content: space-between;
+}
+.add-user input,select{
+  margin-left: 5px;
+  width: 150px;
+}
+.filter-option input {
+  width: 150px;
+  margin: 3px;
+}
+.filter-option select {
+  width: 150px;
+  margin: 3px;
+}
+.delete-modal {
+  padding: 5px;
+  position: fixed;
+  width: 300px;
+  top: 40%;
+  left: 40%;
+  border: 3px solid black;
+}
+.delete-user-btn {
+  margin: 5px;
+}

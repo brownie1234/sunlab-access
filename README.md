@@ -21,7 +21,7 @@ This image shows an ID number that is logging in. If you look at the other side 
 This image shows the ID number (X3wAaBFWP3iLVFGTDXLC) belonging to Joe Schmoe being denied access because of not having access.
 
 <img width="1440" alt="Screen Shot 2023-09-13 at 10 51 24 PM" src="https://github.com/brownie1234/sunlab-access/assets/92711690/facde2f4-ddb1-490c-bd4d-a5b7b0494fd8">
-If you look at the users he ID number (X3wAaBFWP3iLVFGTDXLC) belonging to Joe Schmoe who was originally denied access is not granted access.
+If you look at the users he ID number (X3wAaBFWP3iLVFGTDXLC) belonging to Joe Schmoe who was originally denied access is now granted access.
 
 <img width="1440" alt="Screen Shot 2023-09-13 at 10 48 56 PM" src="https://github.com/brownie1234/sunlab-access/assets/92711690/232635fa-521f-438a-9f6c-af9b73e37e91">
 This image shows the ID number (X3wAaBFWP3iLVFGTDXLC) belonging to Joe Schmoe having access because of being granted access. 
